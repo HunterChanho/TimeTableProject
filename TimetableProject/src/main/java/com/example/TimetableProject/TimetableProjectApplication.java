@@ -8,6 +8,7 @@ public class TimetableProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TimetableProjectApplication.class, args);
+		System.out.println("test");
 	}
 
 }
